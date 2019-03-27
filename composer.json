@@ -1,5 +1,5 @@
 {
-    "name": "veritrans/veritrans-php",
+    "name": "hengky-sandy/veritrans-php",
     "description": "PHP Wraper for Veritrans VT-Web Payment API.",
     "homepage": "https://midtrans.com",
     "version": "1.2.1",
@@ -17,6 +17,10 @@
         {
             "name": "Ismail Faruqi",
             "email": "ismail.faruqi@veritrans.co.id"
+        },
+        {
+            "name": "Hengky Sandy",
+            "email": "hengky.sandy@ralali.com"
         }
     ],
     "require": {
