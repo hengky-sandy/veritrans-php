@@ -2,7 +2,7 @@
     "name": "hengky-sandy/veritrans-php",
     "description": "PHP Wraper for Veritrans VT-Web Payment API.",
     "homepage": "https://midtrans.com",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "type": "library",
     "license":"GPL-3.0",
     "authors": [
